@@ -1,8 +1,6 @@
 <h1 align="center">Hello there! 👋, I'm Isaam Ansari</h1>
 <h3 align="center">AI Product Research & Development Officer at VECTOR Inc.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=is44m" alt="is44m" /></a> </p>
-
 - 🔭 I’m currently working on **RAG pipelines for Multimodal LLMs.**
 
 - 📫 Reach out to me at **mohammedisaam@myself.com**
