@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋, I'm Isaam Ansari</h1>
-<h3 align="center">AI Product Research & Development Officer at VECTOR Inc.</h3>
+<h3 align="center">Engineering Lead at VECTOR Inc.</h3>
 
 - 🔭 I’m currently working on **RAG based multimodal LLMs, Voice AI (Speech to Speech) and other Integrated AI Solutions.**
 
