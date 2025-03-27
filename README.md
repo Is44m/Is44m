@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! 👋, I'm Isaam Ansari</h1>
 <h3 align="center">Engineering Lead at VECTOR Inc.</h3>
 
-- 🔭 I’m currently working on **RAG based multimodal LLMs, Voice AI (Speech to Speech) and other Integrated AI Solutions.**
+- 🔭 I’m currently working on **RAG based multimodal LLMs, Voice AI among other Integrated AI Solutions.**
 
-- 📫 Reach out to me at **mohammedisaam28@gmail.com**
+- 📫 Reach out to me at **isaam@trillet.ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
