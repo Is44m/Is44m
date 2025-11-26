@@ -2,7 +2,7 @@
 <h3 align="center">Engineering Lead @ VECTOR Inc.</h3>
 <h3 align="center">Lead Software Engineer @ Trillet AI</h3>
 
-- 🔭 I’m currently working on **RAG based multimodal LLMs, Voice AI among other Integrated AI Solutions.**
+- 🔭 I’m currently working on **Voice AI & other Integrated AI Solutions.**
 
 - 📫 Reach out to me at **isaam@trillet.ai**
 
