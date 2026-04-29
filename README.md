@@ -1,6 +1,5 @@
 <h1 align="center">Hello there! 👋, I'm Isaam Ansari</h1>
-<h3 align="center">Engineering Lead @ VECTOR Inc.</h3>
-<h3 align="center">Lead Software Engineer @ Trillet AI</h3>
+<h3 align="center">Engineering @ Trillet AI</h3>
 
 - 🔭 I’m currently working on **Voice AI & other Integrated AI Solutions.**
 
